@@ -1,0 +1,44 @@
+body {
+    background-color: rgb(5, 51, 5) ;
+}
+
+#container { 
+            
+            margin: auto;
+            width: 500px;
+            height: 500px;
+            display: grid;
+            border-style: solid;
+            border-width: thin;
+            border-color: lightslategray;
+            background-color: white;
+           }
+
+.rows{ 
+        
+            
+    }
+
+.black { background-color: black;
+
+    }
+
+#header {
+            text-align: center;
+    }  
+
+#button {
+            text-align: center;
+    }
+
+#footer {
+            text-align: center;
+    }
+
+#newGrid {
+            background-color: lightgray;
+            color: darkcyan;
+            font-size: 20px;
+            padding: 12px 28px;
+            border-radius: 0px;
+}
